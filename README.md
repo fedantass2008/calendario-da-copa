@@ -1,14 +1,14 @@
-<h1 align="center"> Calendário da Copa do Mundo </h1>
+<h1 align="center"> World Cup Calendar </h1>
 
 <p align="center">
-Fique por dentro de todos os jogos da Copa Do Mundo de 2022. Saiba dos times e do horário de cada jogo.
+Find out all the 2022 World Cup games. Find out the schedule and the result of each match.
 </p>
 
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#memo-licença">License</a>
 </p>
 
 <p align="center">
@@ -18,28 +18,28 @@ Fique por dentro de todos os jogos da Copa Do Mundo de 2022. Saiba dos times e d
 <br>
 
 <p align="center">
-  <img alt="projeto" src="./.github/preview.jpg" width="100%">
+  <img alt="project" src="./.github/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+This project was created with the following technologies:
 
-- HTML e CSS
+- HTML and CSS
 - JavaScript
-- Git e Github
+- Git and Github
 
-## 💻 Projeto
-O Calendário da Copa é um projeto que mostra os jogos da Copa de 2022.
+## 💻 Project
+The World Cup Calendar is a project that shows the World Cup 2022 games.
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/BoTFelA4C0HBYa0bOpjgX9/Calend%C3%A1rio-de-Jogos-(Community)/duplicate). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+You can view the project's layout trough [this link](https://www.figma.com/file/BoTFelA4C0HBYa0bOpjgX9/Calend%C3%A1rio-de-Jogos-(Community)/duplicate). It's necessary have a [Figma](https://figma.com) account to see this.
 
-## :memo: Licença
+## :memo: License
 
-Esse projeto está sob a licença MIT.
+This project is under the MIT's license.
 
 ---
 
-Feito por Felipe Dantas
+Made by Felipe Dantas
