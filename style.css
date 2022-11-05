@@ -73,6 +73,7 @@ header {
    justify-content: center;
    height: fit-content;
    width: 100%;
+   margin-bottom: 25px;
    opacity: 0;
    animation: appear 0.2s forwards;
 }
@@ -189,15 +190,31 @@ header {
 
 @media (min-width: 700px) {
    #cards {
-      max-width: 670px;
+      max-width: 664px;
       flex-direction: row;
       flex-wrap: wrap;
    }
 }
 
-@media (min-width: 1900px) {
+@media (min-width: 1200px) {
    #cards {
-      max-width: 1710px;
+      max-width: 1012px;
+      flex-direction: row;
+      flex-wrap: wrap;
+   }
+}
+
+@media (min-width: 1500px) {
+   #cards {
+      max-width: 1360px;
+      flex-direction: row;
+      flex-wrap: wrap;
+   }
+}
+
+@media (min-width: 1800px) {
+   #cards {
+      max-width: 1708px;
       flex-direction: row;
       flex-wrap: wrap;
    }
