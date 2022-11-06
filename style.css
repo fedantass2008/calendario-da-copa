@@ -30,7 +30,7 @@ body.green {
 }
 
 body * {
-   font-family: 'Roboto', sans-serif;
+   font-family: 'Poppins', sans-serif;
 }
 
 body {
@@ -129,6 +129,11 @@ header {
 
 }
 
+.card ul li p {
+   color:#E1E1E6;
+   text-transform: uppercase;
+}
+
 .card ul {
    display: flex;
    flex-direction: column;
@@ -137,38 +142,40 @@ header {
    width: 270px;
 }
 
-.card ul li {
+.card ul li .game {
    display: flex;
    justify-content: space-between;
    align-items: center;
 }
 
-.card ul li + li {
+.card ul li .game + li {
    padding-top: 24px;
    border-top: 1px solid #323238;
 }
 
-.card ul li img {
+.card ul li .game img {
    width: 50px;
    height: 50px;
 }
 
-.card ul li strong {
-   font-weight: 900;
+.card ul li .game strong {
+   font-weight: 700;
    font-size: 36px;
    line-height: 125%;
    color: #E1E1E6;
 }
 
 .card h2,
-.card ul li img,
-.card ul li strong {
+.card ul li p,
+.card ul li .game img,
+.card ul li .game strong {
    transition: transform 0.3s;
 }
 
 .card h2:hover,
-.card ul li img:hover,
-.card ul li strong:hover {
+.card ul li p:hover,
+.card ul li .game img:hover,
+.card ul li .game strong:hover {
    transform: scale(1.1);
 }
 
