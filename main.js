@@ -43,7 +43,7 @@ function createDivider() {
 document.querySelector("#cards").innerHTML = 
    createDivider() +
    createStageH2("Fase de Grupos") +
-   createCard("20/11", "domingo", createGame(1, 1, "A", "qatar", "13:00", "ecuador")) +
+   createCard("20/11", "domingo", createGame(0.2, 1.5, "A", "qatar", "0 x 2", "ecuador")) +
    createCard("21/11", "segunda", createGame(1, 1, "B", "england", "10:00", "iran") + createGame(1, 1, "A", "senegal", "13:00", "netherlands") + createGame(1, 1, "B", "usa", "16:00", "wales")) +
    createCard("22/11", "terça", createGame(1, 1, "C", "argentina", "07:00", "saudiarabia") + createGame(1, 1, "D", "denmark", "10:00", "tunisia") + createGame(1, 1, "C", "mexico", "13:00", "poland") + createGame(1, 1, "D", "france", "16:00", "australia")) +
    createCard("23/11", "quarta", createGame(1, 1, "F", "morroco", "07:00", "croatia") + createGame(1, 1, "E", "germany", "10:00", "japan") + createGame(1, 1, "E", "spain", "13:00", "costarica") + createGame(1, 1, "F", "belgium", "16:00", "canada")) +
